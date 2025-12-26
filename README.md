@@ -2,7 +2,7 @@
 
 # 🛠️ layasri-portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://layasri-portfolio.vercel.app/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 
@@ -11,7 +11,7 @@
 </div>
 
 ## ✨ **Live Demo**
-**[https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app](https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app)**
+**[https://layasri-portfolio.vercel.app/](https://layasri-portfolio.vercel.app/)**
 
 ## 🎨 **Features**
 
