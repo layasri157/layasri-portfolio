@@ -72,12 +72,4 @@ TBT: 0ms
 "build": "vite build",
 "preview": "vite preview"
 }
-}
 
----
-
-<div align="center">
-**Built by Layasri Pusapati**  
-**React + Vite + Custom CSS + Vercel**  
-**Made in 2 hours** ✨
-</div>
