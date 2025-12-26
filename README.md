@@ -74,9 +74,6 @@ TBT: 0ms
 }
 }
 
-## 📊 **Screenshot**
-![Portfolio Preview](https://via.placeholder.com/1200x600/020617/22c55e?text=Glassmorphism+Portfolio)
-
 ---
 
 <div align="center">
